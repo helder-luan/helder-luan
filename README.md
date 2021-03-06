@@ -1,6 +1,7 @@
-<h2>Eu sou Helder Luan</h2>
+### Oii 👋
+### <h2>Eu sou Helder Luan</h2>
 
-- **Aqui embaixo tem um pouco sobre mim**
+- **E aqui embaixo tem um pouco sobre mim**
   - 🔭 Programador Júnior na área de **Front - End**
   - 🌱 Aprendendo **ReactJS** e **React Native**
   - 📫 Contato: **Email:** ![Email](https://img.shields.io/badge/helderluan0202@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:helderluan0202@gmail.com)    | **Instagram:** ![Instagram](https://img.shields.io/badge/@luan_avelar_-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/luan_avelar_/?hl=pt-br)
