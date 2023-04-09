@@ -3,9 +3,8 @@
 
 - **E aqui embaixo tem um pouco sobre mim**
   - 🔭 Programador Júnior na área de **Front - End**
-  - 🌱 Aprendendo **ReactJS** e **React Native**
+  - 🌱 Aprendendo **ReactJS** e **Flutter**
   - 📫 Contato: **Email:** ![Email](https://img.shields.io/badge/helderluan0202@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)    | **Instagram:** ![Instagram](https://img.shields.io/badge/@luan_avelar_-E4405F?style=flat&logo=instagram&logoColor=white)
-  - ⚡  Curiosidade sobre: **Machine Learning | Deep Learning | Artificial Intelligence**
 - 🚀 **Habilidades e Conhecimentos**
 
 	 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
